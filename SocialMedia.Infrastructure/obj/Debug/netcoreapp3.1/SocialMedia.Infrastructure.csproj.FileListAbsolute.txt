@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.runtimeconfig.json
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ApiRestCore\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.genruntimeconfig.cache
